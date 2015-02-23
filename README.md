@@ -1,5 +1,5 @@
 # Detect-Prob
-<<<<<<< HEAD
+
 ---
 title: "PIT Protocols for Maximizing Detection Probabilities"
 output: html_document
@@ -31,4 +31,4 @@ plot(cars)
 
 This is a draft document with the intent of evolving into a comprehensive SOP for PIT antenna installation. 
 =======
->>>>>>> 52712a92ab5c24be23bdb2061195ba251a09e747
+
