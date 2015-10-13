@@ -21,13 +21,6 @@ Examine detection probability parameters and identify a model/models suitable fo
 ---
 ###Analysis
 
-Here's a random graph:
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
-
 
 This is a draft document with the intent of evolving into a comprehensive SOP for PIT antenna installation. 
 =======
